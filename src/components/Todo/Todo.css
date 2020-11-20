@@ -1,0 +1,9 @@
+.list-heading {
+  display: flex;
+  align-items: center;
+  border: 4px solid rgb(0, 0, 0);
+  padding: 10px;
+  font-family: monospace;
+  border-radius: 20px;
+  margin-top: 50px;
+}
