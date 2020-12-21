@@ -1,5 +1,12 @@
 Web App: https://deep-todo-app.web.app/
 
+Some of the pictures are:
+<img src = "Images%20Todo-App/Screenshot%20from%202020-12-21%2021-41-05.png">
+<img src = "Images%20Todo-App/Screenshot%20from%202020-12-21%2021-41-22.png">
+<img src = "Images%20Todo-App/Screenshot%20from%202020-12-21%2021-41-27.png">
+<img src = "Images%20Todo-App/Screenshot%20from%202020-12-21%2021-41-36.png">
+<img src = "Images%20Todo-App/Screenshot%20from%202020-12-21%2021-41-39.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
